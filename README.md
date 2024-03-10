@@ -1,4 +1,5 @@
 # rush007-ex01
+# group-work
 function rush should display (on-screen) a rectangle of x characters for width, and y characters for length.
 
 Possible to find an output below
